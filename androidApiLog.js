@@ -1,7 +1,7 @@
 /**
  * Created by y0n on 2020/8/17 13:35.
  * 用于对于一个未知的样本时，快速定位敏感api调用点
- * usage：frida -FU --no-pause -f pkgname -l *.js
+ * usage：frida -(F)U --no-pause -f pkgname -l *.js
  */
 
 /**
